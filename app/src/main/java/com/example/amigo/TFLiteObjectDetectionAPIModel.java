@@ -21,6 +21,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+
 public class TFLiteObjectDetectionAPIModel {
 
     private static final String TAG = "TFLiteObjectDetection";
