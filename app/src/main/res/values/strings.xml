@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Amigo</string>
+    <string name="home">Home</string>
+    <string name="about_us">About Us</string>
+    <string name="contact">Contact</string>
+    <string name="voice_command">Voice Command</string>
+    <string name="profile">Profile</string>
+    <string name="camera_preview">Camera preview</string>
+</resources>
